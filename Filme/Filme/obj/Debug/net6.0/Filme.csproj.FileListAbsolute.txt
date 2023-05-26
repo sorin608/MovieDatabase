@@ -1,0 +1,34 @@
+C:\Users\Sorin\Desktop\Proiect Filme\Filme\Filme\bin\Debug\net6.0\Filme.exe
+C:\Users\Sorin\Desktop\Proiect Filme\Filme\Filme\bin\Debug\net6.0\Filme.deps.json
+C:\Users\Sorin\Desktop\Proiect Filme\Filme\Filme\bin\Debug\net6.0\Filme.runtimeconfig.json
+C:\Users\Sorin\Desktop\Proiect Filme\Filme\Filme\bin\Debug\net6.0\Filme.dll
+C:\Users\Sorin\Desktop\Proiect Filme\Filme\Filme\bin\Debug\net6.0\Filme.pdb
+C:\Users\Sorin\Desktop\Proiect Filme\Filme\Filme\obj\Debug\net6.0\Filme.csproj.AssemblyReference.cache
+C:\Users\Sorin\Desktop\Proiect Filme\Filme\Filme\obj\Debug\net6.0\Filme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sorin\Desktop\Proiect Filme\Filme\Filme\obj\Debug\net6.0\Filme.AssemblyInfoInputs.cache
+C:\Users\Sorin\Desktop\Proiect Filme\Filme\Filme\obj\Debug\net6.0\Filme.AssemblyInfo.cs
+C:\Users\Sorin\Desktop\Proiect Filme\Filme\Filme\obj\Debug\net6.0\Filme.csproj.CoreCompileInputs.cache
+C:\Users\Sorin\Desktop\Proiect Filme\Filme\Filme\obj\Debug\net6.0\Filme.dll
+C:\Users\Sorin\Desktop\Proiect Filme\Filme\Filme\obj\Debug\net6.0\refint\Filme.dll
+C:\Users\Sorin\Desktop\Proiect Filme\Filme\Filme\obj\Debug\net6.0\Filme.pdb
+C:\Users\Sorin\Desktop\Proiect Filme\Filme\Filme\obj\Debug\net6.0\Filme.genruntimeconfig.cache
+C:\Users\Sorin\Desktop\Proiect Filme\Filme\Filme\obj\Debug\net6.0\ref\Filme.dll
+C:\Users\Sorin\Desktop\Proiect Filme\Filme\Filme\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Sorin\Desktop\Proiect Filme\Filme\Filme\obj\Debug\net6.0\Filme.csproj.CopyComplete
+C:\Users\Sorin\Desktop\Proiect C# Motoescu Sorin - 608\Filme\Filme\bin\Debug\net6.0\Filme.exe
+C:\Users\Sorin\Desktop\Proiect C# Motoescu Sorin - 608\Filme\Filme\bin\Debug\net6.0\Filme.deps.json
+C:\Users\Sorin\Desktop\Proiect C# Motoescu Sorin - 608\Filme\Filme\bin\Debug\net6.0\Filme.runtimeconfig.json
+C:\Users\Sorin\Desktop\Proiect C# Motoescu Sorin - 608\Filme\Filme\bin\Debug\net6.0\Filme.dll
+C:\Users\Sorin\Desktop\Proiect C# Motoescu Sorin - 608\Filme\Filme\bin\Debug\net6.0\Filme.pdb
+C:\Users\Sorin\Desktop\Proiect C# Motoescu Sorin - 608\Filme\Filme\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Sorin\Desktop\Proiect C# Motoescu Sorin - 608\Filme\Filme\obj\Debug\net6.0\Filme.csproj.AssemblyReference.cache
+C:\Users\Sorin\Desktop\Proiect C# Motoescu Sorin - 608\Filme\Filme\obj\Debug\net6.0\Filme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sorin\Desktop\Proiect C# Motoescu Sorin - 608\Filme\Filme\obj\Debug\net6.0\Filme.AssemblyInfoInputs.cache
+C:\Users\Sorin\Desktop\Proiect C# Motoescu Sorin - 608\Filme\Filme\obj\Debug\net6.0\Filme.AssemblyInfo.cs
+C:\Users\Sorin\Desktop\Proiect C# Motoescu Sorin - 608\Filme\Filme\obj\Debug\net6.0\Filme.csproj.CoreCompileInputs.cache
+C:\Users\Sorin\Desktop\Proiect C# Motoescu Sorin - 608\Filme\Filme\obj\Debug\net6.0\Filme.csproj.CopyComplete
+C:\Users\Sorin\Desktop\Proiect C# Motoescu Sorin - 608\Filme\Filme\obj\Debug\net6.0\Filme.dll
+C:\Users\Sorin\Desktop\Proiect C# Motoescu Sorin - 608\Filme\Filme\obj\Debug\net6.0\refint\Filme.dll
+C:\Users\Sorin\Desktop\Proiect C# Motoescu Sorin - 608\Filme\Filme\obj\Debug\net6.0\Filme.pdb
+C:\Users\Sorin\Desktop\Proiect C# Motoescu Sorin - 608\Filme\Filme\obj\Debug\net6.0\Filme.genruntimeconfig.cache
+C:\Users\Sorin\Desktop\Proiect C# Motoescu Sorin - 608\Filme\Filme\obj\Debug\net6.0\ref\Filme.dll
